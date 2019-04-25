@@ -1,0 +1,15 @@
+
+spring:
+  datasource:
+    url: jdbc:mysql://rm-uf60ih7qa1rf2r849bo.mysql.rds.aliyuncs.com:3306/dbdgn
+    driverClassName: com.mysql.jdbc.Driver
+    username: caishanshan
+    password: Cai710170976
+
+  jpa:
+      database: MYSQL
+      show-sql: true
+
+
+        
+
